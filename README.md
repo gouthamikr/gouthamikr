@@ -6,21 +6,6 @@
 - 💜 loving React
 - ⚡ Fun fact: I'm a crossword puzzles lover too...
 
-<h3>Connect with me:<h3>
-<p>
-   <a href="https://twitter.com/GouthamiKyatham">
-    <img align="left" src="https://image.flaticon.com/icons/svg/733/733579.svg" width="32px"  />
-  </a>
-  <a href="mailto:gouthamikyatham4@gmail.com">
-    <img align="left" src="https://image.flaticon.com/icons/svg/732/732200.svg" width="32px"  />
-  </a>
-  <a href="https://www.linkedin.com/in/gouthami-kyatham-80b043119/">
-    <img align="left" src="https://image.flaticon.com/icons/svg/174/174857.svg" width="28px" />
-  </a>
-  <a href="https://www.hackerrank.com/gouthamikyatham4?hr_r=1">
-    <img align="left" src="https://brandfolder.com/hackerrank/logo/hackerrank-primary-logo.png" width="28px"  />
-  </a>
-</p>
 <br/>
 <br/>
 
