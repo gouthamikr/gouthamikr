@@ -5,7 +5,6 @@
 - 🧠 learning MongoDB
 - 💜 loving React
 - ⚡ Fun fact: I'm a crossword puzzles lover too...
--  🏡 [Portfolio][Portfolio] 
 
 <h3>Connect with me:<h3>
 <p>
